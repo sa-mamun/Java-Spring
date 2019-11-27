@@ -1,0 +1,13 @@
+package com.sam.springdemo;
+
+public class TrakCoach implements Coach {
+
+	@Override
+	public void getDailyWorkout() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("Run hard for 10 min");
+
+	}
+
+}

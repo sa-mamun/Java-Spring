@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor"/>
+<fullyQualifiedTypeName name="com.sam.springdemo.BaseballCoach"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="com.sam.springdemo.Coach"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Readable"/>
+</qualifiedTypeNameHistroy>
